@@ -1,0 +1,5 @@
+if, else, if-else statement,~ A Java reserved word that specifies a simple conditional construct.,~
+
+logical operators,~ Logical operators that are used to evaluate boolean expressions. And is represented with &&, or is represented with ||,~
+
+case, cases,~ Case is used as a Java reserved word that is used to identify each unique option in a switch statement.,~

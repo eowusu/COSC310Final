@@ -1,0 +1,3 @@
+object-oriented, object-oriented programming,~ A programming paradigm, a style of programing used by java and many other languages.,~
+
+graphs,~ Do not worry about this topic.,~

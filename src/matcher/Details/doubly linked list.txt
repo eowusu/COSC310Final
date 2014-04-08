@@ -1,0 +1,9 @@
+how, what, example, use,~ This data structure is useful in implementing queues, however, it is too complicated for me to explain to you here how to implement it.  Ask me about the details, I can't do everything for you :),~
+
+next,~ This is an attribute that keeps the value of the next Node in the list. This attribute belongs to the Node class.,~
+
+prev, previous,~ This is an attribute that keeps the value of the previous Node in the list.  This attribute belongs to the Node class.,~
+
+attributes, attribute,~ Usually the List class will have a first and last attribute and the Node class must have next, previous and value attributes.,~
+
+node, nodes,~ This is a class that stores the value in each node of the list as well as maintaining attributes with the values of the next and previous nodes in the list,~

@@ -1,0 +1,7 @@
+how, what, use, example,~ You can use condition in if statements or while loops by writing a boolean expression.  For example, if there is an int variable x that stores the value 5 we can write and if statement 'if(x < 10)' where the condition would be 'x<10',~
+
+and,~ You can represent the logical 'and' operator with '&&'.  The and operator will only return true if both operands are true.  For example 'true AND false' will return false but 'true AND true' will return true.,~
+
+or,~ You can represent the logical 'and' operator with '||'.  The or operator will only return true if either or both operands are true.  For example 'true AND false' will return true but 'false AND false' will return false.,~
+
+not,~ You can represent the logical 'not' operator with '!'.  The not operator will return false if the operand is true and true if the operand is false.  This operator only takes one operand.

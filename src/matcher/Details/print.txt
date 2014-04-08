@@ -1,0 +1,7 @@
+
+prompt,~ Prompt is a message or symbol used to request information from the user.,~
+
+scanner, scanner class,~ The Scanner class is a class in java.util, which allows the user to read values of various types.,~
+
+object, objects,~ An instance of a class.,~
+

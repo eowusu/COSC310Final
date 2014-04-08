@@ -1,0 +1,5 @@
+what, define, definition,~ An object created from a class. Multiple objects can be instantiated from a single class.,~
+
+instance method, method,~ A method that must be invoked through a particular instance of a class, as opposed to a class method.,~
+
+instance variable, variable,~ A variable that must be referenced through a particular instance of a class, as opposed to a class variable.,~

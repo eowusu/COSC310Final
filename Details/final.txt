@@ -1,0 +1,5 @@
+class, classes, final class,~ Final class cannot be a subclass. Most of the common examples include java libraries,~
+
+method, methods, final method,~ Final methods are methods that cannot be overridden or hidden by any subclassess. They are used to prevent unexpected outcome from a subclass altering a method. If a method is defined in a final class, it is implicitly final,~
+
+variable, variables, final variable,~ A final variable is when the variable cannot be modified and can only be initialized once.,~

@@ -1,0 +1,7 @@
+frames,~ Frames are used for a Java GUI-based application to display a program interface,~
+
+interface,~ A frame interface in a GUI consists of a primary panel, which is added to the frames content pane,~
+
+jframe, jframes,~ The JFrame  is a constructor that takes a string as a parameter displays it in the title bar of the frame.,~
+
+listener, listeners, listener object, listener objects,~ Listener objects are required by the GUI to set up the relationship between listeners and the components that generate the events of interest.,~

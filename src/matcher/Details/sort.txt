@@ -1,0 +1,9 @@
+array, arrays,~ An array is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created. After creation, its length is fixed.,~
+
+doubly linked list, doubly linked, doubly-linked,~ Doubly-linked list is a linked-list data structure with two references in each node: one that refers to the next node in the list and one that refers to the previous node in the list.,~
+
+selection sort,~ Selection sort is sorting algorithm in which each value, one at a time, is placed in its final, sorted position.,~
+
+merge sort,~ A sorting algorithm that recursivly breaks a list in half until two remains and then builds the list back up.,~
+
+algorithm, algorithms~ An algorithm is a step-by-step process for solving a problem. A program is based on one or more algorithms.,~

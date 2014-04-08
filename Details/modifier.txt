@@ -1,0 +1,13 @@
+what, define, modifier,~ Modifiers are keywords that you add to those definitions to change their meanings. It is a designation used in a Java declaration that specifies particular characteristics to the construct being declared.,~
+
+visibility modifier, visibility,~ There are 3 types. Public makes it visible to any programmer, or the world; private which sets the visibility only to that particular class where it was called to; and protected makes it visible to the package and its subclasses,~
+
+package, packages,~ Java reserved word that is used to specify a group of related classes.,~
+
+subclass, subclasses,~ A subclass is a class that is derived from another class, mainly a superclass.,~
+
+static,~ Static is a Java reserved word that serves as a modifier for methods and variables. A static method is also called a class method and can be referenced without an instance of the class. A static variable is also called a class variable and is common to all instances of the class.,~
+
+final,~ Final is a Java reserved word that serves as a modifier for classes, methods, and variables. A final class cannot be used to derive a new class. A final method cannot be overridden. A final variable is a constant.,~
+
+abstract,~ Abstract is a Java reserved word that serves as a modifier for classes, interfaces, and methods.,~

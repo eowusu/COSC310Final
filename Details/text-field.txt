@@ -1,0 +1,21 @@
+gui,~ Software that provides the means to interact with a program or operating system by making use of graphical images and point-and-click mechanisms, such as buttons and text fields.,~
+
+console,~ An area of eclips, where output is displayed and input can be entered.,~
+
+Listener,~ A connection that listens for an event to happen, for example a button to be pushed.,~
+
+dialogue box,~ A dialogue box is a graphical window that pops up that allows brief, specific user interaction.,~
+
+radio button,~ A GUI component that allows the user choose one of a set of options with a mouse click. A radio button is useful only as part of a group of other radio buttons.,~
+
+applet, applets,~ A Java program that is linked into an HTML document, then retrieved and executed using a Web browser, as opposed to a standalone Java application.,~
+
+button,~ A button is a GUI component that allows the user to initiate an action, set a condition, or choose an option with a mouse click. There are several kinds of GUI buttons like check box, push button, radio button.,~
+
+checkbox, checkboxes, check box, check boxes,~ Check boxes are a GUI component that allows the user to set a boolean condition with a mouse click. A check box can be used alone or independently among other check boxes.,~
+
+color, colors,~ Color can be controlled by accessing the Color class.  The Color class yields the class constants shown in the table below.  The expression Color.red gives the Color constant for red.,~
+
+panel,~ A panel is a GUI container that holds and organizes other GUI components.,~
+
+list,~ List is a GUI component that presents a list of items from which the user can choose. The current selection is highlighted in the list.,~

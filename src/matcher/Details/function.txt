@@ -1,0 +1,2 @@
+use, usage,~ Java does not uses functions because all the code written is part of a class,~
+

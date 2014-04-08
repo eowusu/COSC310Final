@@ -1,0 +1,3 @@
+how, what, example, use,~ In a switch statement where the value used to make decisions on an int variable x example cases would be. case 1, case 2, case 3, etc.  If x does not fit any of the cases you can use a default to execute some code anyway.  Default statements should always be the last thing in the switch statement.,~
+
+why,~ Default cases are used to deal with unexpected scenarios in the switch statement.  They are often used to inform the user that the program doesn't know what to do with the information it was given.

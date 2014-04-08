@@ -1,0 +1,7 @@
+what, definition, define,~ Internet is a mass interconnected global computer network connecting billions of people with each other.,~
+
+browser,~ A browser is a software tool window that displays user friendly GUI; sends information about the user and receives information from other users, computers and networks around the world.,~
+
+ip, ip address,~ IP or internet protocol address that identifies all computers that are connected to a network or the internet.,~
+
+URL,~ A URL or Uniform Resourse Locator uniqiely specifies documents and other information found on the web for a broser to retrive and display. Eg. http://www.google.ca which links you to the Google Search Engine website Canada,~

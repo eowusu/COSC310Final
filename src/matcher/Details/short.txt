@@ -1,0 +1,5 @@
+data type, data types,~ Signals the kind of information that a variable will store for example, integer,double or short.,~
+
+int, integer, integers, whole number,~ By default, the int data type is a 32-bit signed two's complement integer, which has a minimum value of -2^31 and a maximum value of 2^31 -1.,~
+
+variable, variables,~ Variables have a type. This type can be a base type, such as int or double, or an Object such as String.  Variables also need to have a name such as 'number'.,~

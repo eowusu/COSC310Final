@@ -1,0 +1,3 @@
+object, objects,~ An instance of a class.,~
+
+reserved words,~ A reserved word is a word that has special meaning in a programming language and cannot be used for any other purpose.,~

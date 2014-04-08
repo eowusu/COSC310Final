@@ -1,0 +1,15 @@
+nesting,~ Nesting or nested blocks refers to a block of code declared within another block to help implementing and restricting access.,~
+
+break, break statements,~ Break is a Java reserved word used to interrupt the flow of control by breaking out of the current loop or switch statement.,~
+
+block, blocks,~ A block is a group of programming statements or line of codes that is inbetween a set of braces '{}'.,~
+
+continue, continue statement,~ Continue statement is similar to the break statement except it skips the current iteration of a for, while , or do-while loop. The unlabeled form skips to the end of the innermost loop's body and evaluates the boolean expression that controls the loop.,~
+
+escapes, escaping, escape sequences, escape,~ Escape is a sequence of characters beginning with the backslash character (\), used to indicate a special situation when printing values. For example, the escape sequence \t specifies that a horizontal tab should be printed.,~
+
+repetition statement, do-while, for, while, loop, loops, iteration statement, iterative statement,~ A programming construct that allows a set of statements to be executed repetitively as long as a particular condition is true. The body of the repetition statement should eventually make the condition false. Also called an iteration statement or loop.,~
+
+parsing,~ Usually done by the compiler, parsing is the process of sequencial source program instructions or some user defined interface, breaks a given object into pieces and manages it by other programming.,~
+
+private,~ A Java reserved word that serves as a visibility modifier for inner classes as well as methods and variables. A private inner class is accessible only to members of the class in which it is declared. Private methods and variables are visible only in the class in which they are declared.,~

@@ -1,0 +1,5 @@
+what, define, definition, example,~ Implicit means a certain task is done by the Java Virtual Machine or the tool, not the programmer.,~
+
+
+
+example, eg,~ Java will provide us default constructor implicitly.Even if the programmer didn't write code for constructor, he can call default constructor.,~

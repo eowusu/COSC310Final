@@ -1,0 +1,9 @@
+what, define, definition,~ Insertion sort is a simple sorting algorithm that builds a sorted arary by sorting one element at a time. Due to its operation time, it is much less efficient on large arrays or lists than most advanced algorithms.,~
+
+algorithm, algorithms,~ An algorithm is a step-by-step process for solving a problem. A program is based on one or more algorithms.,~
+
+selection sort,~ Selection sort is sorting algorithm in which each value, one at a time, is placed in its final, sorted position.,~
+
+sort, sorts, sorting,~ Sorting is the process of putting a list of values into a well-defined order.,~
+
+merge sort,~ A sorting algorithm that recursivly breaks a list in half until two remains and then builds the list back up.,~

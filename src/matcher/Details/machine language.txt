@@ -1,0 +1,5 @@
+what,~ Machine language is an instructional language executed directly by the hardware CPU component. Each instruction processes a specific task onto the data unit in the CPU memory where it executes the series of such instructions.,~
+
+where, use,~ Due to its specific bit manipulation and address calculation property, numerical machine language is rarely used today except for when extreme debugging and optimization is required.,~
+
+assembly language, assembly,~ Assembly language is a lower-level programming language which is strongly linked (one-to-one correspondence) to the architectural machine insturctional language.,~

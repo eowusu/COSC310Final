@@ -1,0 +1,3 @@
+scanner, scanner class,~ The Scanner class is a class in java.util, which allows the user to read values of various types.,~
+
+string, strings, sentence,~ The String class represents character strings. All string literals in Java programs, such as "abc", are implemented as instances of this class. The String class has many built-in methods that can be used with the string.,~

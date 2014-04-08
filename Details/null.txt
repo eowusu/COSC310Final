@@ -1,0 +1,5 @@
+null,~ A Java reserved word that is a reference literal, used to indicate that a reference does not currently refer to any object.,~
+
+pointer, pointers,~ A variable that can hold a memory address. Instead of pointers, Java uses references, which provide essentially the same functionality as pointers but without the need for explicit dereferencing. Null pointer is a reference pointer pointing to nothing, mainly used to show the end or emptiness of a variable or data structure such as an empty array or empty list.,~
+
+parameter,~ A value passed from a method invocation to its definition. A null java reserved parameter is used to show that an object theres no reference from this object to another.,~

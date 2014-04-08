@@ -1,0 +1,5 @@
+what, define, dynamic binding,~ Late binding is a runtime process of looking up a declaration, by name, that corresponds to a uniquely specified type. It does not involve type checking during compilation, when referencing libraries, including an object, is not required.,~
+
+run time, runtime, runtime error,~ A problem that occurs during program execution that causes the program to terminate abnormally.,~
+
+compile-time error, compile time, compile time error,~ Compile time error is an error that occurs during the compilation process, often indicating that a program does not conform to the language syntax or that an operation was attempted on an inappropriate data type.,~

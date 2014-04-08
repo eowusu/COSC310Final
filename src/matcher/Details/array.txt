@@ -1,0 +1,14 @@
+size,~ The size of an array is the number of elements in CAN contain. To find the size use the array.size attribute.  The largest index available in the array is one less than the size.,~
+
+index, indexes, indicies,~ The index of an array is the position that an element is stored at.  Indicies start at 0 not at 1.,~
+
+ArrayIndexOutOfBounds, out of bounds,~ This type of error occurs when you try to insert or access an element at an index that is outside the array.  Remember that the maximimum index of an array is one less than it's size and the index starts at 0.,~
+
+add,~ To add to an array specify the index you want to add to then assign the value, for example: array[0] = "First entry".  Remember to use '[]' to specify the index.,~
+
+access, get, see,~ To get the value at an index of an array you specify the index using '[]', for example, array[2] would return the element at the index 2, that is the same as the third index.,~
+
+declare, make,~ To declare and array you would use 'int[] arrayName;' to declare and int array.  You can make an array of any base type or object the same way.,~
+
+fill, initialize,~ To initialize an array you can have it be a set set size and empty by using 'int[] arrayName = new int[10];'.  This would make an int array with size 10.  To fill an array right away you can use 'int[] arrayName = {1,2,3};'.  This would make an int array of size 3 and fill it with the given values.
+

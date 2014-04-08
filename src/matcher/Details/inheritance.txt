@@ -1,0 +1,7 @@
+define, definition, what, when,~ In object oriented programming like Java, inheritance is when an object class is based on another object or class, using the same implementation.,~
+
+structure,~ In the Java, each class is allowed to have one direct superclass, and each superclass has the potential for an unlimited number of subclasses.,~
+
+syntax,~ At the beginning of your class declaration, use the extends keyword, followed by the name of the class to inherit from. Eg. class mountainBike extends bicycle.,~
+
+multiple inheritance,~ Deriving a class from more than one parent, inheriting methods and variables from each. Multiple inheritance is NOT supported in Java.,~

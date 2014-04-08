@@ -1,0 +1,11 @@
+node, nodes,~ A node is a record consisting of one or more fields that are links to other nodes, and a data field. Nodes are mainly used in linked data structures such as (single and doubly) linked lists, trees and graphs.,~
+
+node property, heap property, property,~ Heap is a binary tree data structure that satisfies the heap property: If A is a parent node of B then the key of node A is ordered with respect to the key of node B with the same ordering applying across the heap.,~
+
+sort, heapsort,~ A sorting algorithm mainly used for arrays and lists due to its favourable worst-case runtime but it is not a stable sort.,~
+
+preorder,~ Preorder traversal in Heaps is a sequence of visited nodes where the pointer traverse the parent node first, then the left child and then the right child.,~
+
+inorder,~ Inorder traversal in Heaps is a sequence of visited nodes where the pointer traverse the left child node first, then the parent node and then the right child node.,~
+
+postorder,~ Postorder traversal in Heaps is a sequence of visited nodes where the pointer traverse the left child node first, then the right child node and then the parent node.,~

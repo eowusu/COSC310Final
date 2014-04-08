@@ -1,0 +1,3 @@
+what,~ An image is a graphical representation of an object. Generally known as a picture, it has a specified extension eg. GIF, JPEG and PNG formats.,~
+
+gui,~ In a GUI, images are used to form icons , which are small images that represent computer resources, such as a file.,~

@@ -1,0 +1,15 @@
+concatenation, string concatenation,~ Concatenation is the process of combining two strings together by the operand '+',~
+
+object, objects,~ An instance of a class.,~
+
+variable, variables,~ Variables have a type. This type can be a base type, such as int or double, or an Object such as String.  Variables also need to have a name such as 'number'.,~
+
+method, methods,~ A named group of declarations and programming statements that can be invoked (executed) when needed. A method is part of a class.,~
+
+parsing,~ Usually done by the compiler, parsing is the process of sequencial source program instructions or some user defined interface, breaks a given object into pieces and manages it by other programming.,~
+
+append, append method, appends, appends method,~ The append() method concatenates the string representation of any other type of data to the end of the invoking StringBuffer object.,~
+
+how, what, example, use,~ You can declare a string variable called x using 'String x;' and can initialize it using 'x = "This is a String"' or 'x = new String()',~
+
+

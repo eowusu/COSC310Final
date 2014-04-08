@@ -1,0 +1,5 @@
+declare, make, decalres, makes,~ You can declare a char variable called x using 'char x;'.,~
+
+initialize, set, fill, give value, initializes, sets, fills, gives value,~ You can initialize a char variable x using 'x = 'A';' or 'x = 'a';',~
+
+array,~ In most cases using a String is easier than using a char array.

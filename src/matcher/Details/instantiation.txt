@@ -1,0 +1,5 @@
+what, define, definition,~ Instantiation is the act of creating an object from a class.,~
+
+instance,~  Instance emphasizes the distinct identity of the object, or instance object. Each time a program runs, it is an instance of that program. That is, it is a member of a given class that has specified values rather than variables.,~
+
+example, examples,~ you could think of "dog" as a type and your particular dog as an instance of that class.,~

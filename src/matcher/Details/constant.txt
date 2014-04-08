@@ -1,0 +1,3 @@
+how, what, example, use,~ You can define a constant as a class attribute using the 'final' keyword. For example, 'final int EXAMPLE = 5' will define EXAMPLE to store the value 5, this value cannot be changed anywhere else in the code.  By convention, constant variable names are usually capitalized.,~
+
+why,~ Constants are used to make the code easier to understand and to make future changes easier.  If you use the value of a variable many times in a class and you use a constant you only need to make one change to have a different value used in the class.

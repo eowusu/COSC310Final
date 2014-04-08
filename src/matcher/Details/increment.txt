@@ -1,0 +1,5 @@
+what, define, definition, increment, use, uses,~ Increment "++" is an operator. It is mainly used for pointers. It can be written both as prefix and a postfix.,~
+
+prefix,~ Prefix Increment is denoted as ++x. This means that the compiler will run the statement, increment the value by one and then save it to memory storage.,~
+
+postfix,~ Postfix Increment is represented as x++. This means that the compiler will save the current value of x to the memory storage and then increment the variable x.,~

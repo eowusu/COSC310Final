@@ -1,0 +1,5 @@
+exception, exceptions,~ Exceptions are handled using try-catch-finally statement. Finally clause is optional to use but must be used with a try statement,~
+
+try, try clause, try statement,~ Try Clause is used to manage exceptions, if an exception is found when used with finally clasue, it will discontinue the execution of the block and jump to the finally block,~
+
+finally,~ The statement in the finally block are always executed after the try and catch block exception handling. The finally clause is optional to use with the try,~

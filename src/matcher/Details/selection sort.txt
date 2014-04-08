@@ -1,0 +1,5 @@
+algorithm, algorithms~ An algorithm is a step-by-step process for solving a problem. A program is based on one or more algorithms.,~
+
+sort, sorts, sorting,~ Sorting is the process of putting a list of values into a well-defined order.,~
+
+merge sort,~ A sorting algorithm that recursivly breaks a list in half until two remains and then builds the list back up.,~

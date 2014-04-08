@@ -1,0 +1,1 @@
+how, what, example, use,~ To have a class, for example Lion, extend from another class, for example Cat, you would use 'public class Lion extends Cat'.

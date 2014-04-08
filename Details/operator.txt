@@ -1,0 +1,13 @@
+what, define, operator, operators,~ A symbol that represents a particular operation in a programming language, such as the addition operator (+).,~
+
+expression,~ Expression is a combination of operators and operands that produce a result.,~
+
+assignment,~ An assignment is an binary operator that takes two variables or values and assigns the value of the right variable to the left variable,~
+
+decrement, decrement operator, decrements~ Decrement operator is an operator, denoted by '--', is used as assignment operator. x-- stands for x = x - 1. Eg. x = 8 then y = --x will decrement the value of x to 7 then store it in y where as y = x-- will store 8 in y then decrement the value of x.,~
+
+increment, increment operator,~ Increment operator is an operator, denoted by '++', is used as assignment operator. x++ stands for x=x+1. Eg. x=8 theny=++x will increment the value of x to 9 then store it in y where as y=x++ will store 8 in y then increment the value.,~
+
+operand, operands,~ A value on which an operator performs its function. For example, in the expression 5 + 2, the values 5 and 2 are operands.,~
+
+overloading,~ Assigning additional meaning to a programming language construct, such as a method or operator. Method overloading is supported by Java, but operator overloading is not.,~

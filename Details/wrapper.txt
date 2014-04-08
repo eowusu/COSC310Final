@@ -1,0 +1,10 @@
+nesting, nested,~ Using tools within one another, for example putting a loop inside an already existing loop.,~
+
+object, objects,~ An instance of a class.,~
+
+class, classes,~ A class is a blueprint of an object—the model that defines the variables and methods an object will contain when instantiated.,~
+
+aggregate object, aggregate objects, aggregate, aggregates, aggregation,~ An object that contains variables that are references to other objects.,~
+
+
+

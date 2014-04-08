@@ -1,0 +1,5 @@
+what, define, definition,~ A Java interface is a collection of constants and abstract methods. This solves the problem of multiple inheritance in Java as a class can implement multiple interfaces and vice versa,~
+
+abstract,~ A java reserved word use to define a class or a method whith no implementation.,~
+
+implement, implements, implementation,~ Java reserved word used to implement an interface with abstract methods defined in this interface.,~

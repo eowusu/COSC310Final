@@ -1,0 +1,3 @@
+declare, make, decalres, makes,~ You can declare a integer variable called x using 'int x;'.,~
+
+initialize, set, fill, give value, initializes, sets, fills, gives value,~ You can initialize a integer variable x using 'x = 4;' or 'x = 105;',~

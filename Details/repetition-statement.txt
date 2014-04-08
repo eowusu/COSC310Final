@@ -1,0 +1,14 @@
+loops,~ A tool for programmers to use. Any code placed inside a loop will execture as many times as the loop loops for.,~
+
+do, do statement,~ A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. See also for, while.,~
+
+
+for loop,~ a loop that the programer can calculate how many times it will execute.,~
+
+Arrays,~ A sequence of varables that all have the same name but have a different, index. These indexies are offen accessed by loops.,~
+
+infinite loop,~ A common error encountered with while loops, this is a loop that will never end.,~
+
+infinite loop,~ A loop that does not terminate because the condition controlling the loop never becomes false.,~
+
+infinite recursion,~ A recursive series of invocations that does not terminate because the base case is never reached.,~

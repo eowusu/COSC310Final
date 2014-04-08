@@ -1,0 +1,7 @@
+what, memory,~ Memory is where program, data and information is stored in a device.,~
+
+primary, primary memory,~ Also known as the main memory or RAM, primary is the storage divice that holds running softwares that are being processed by the CPU, including the Operating System, web browser, word processor and more. Eg. A house with oven, fridge, tv, computer, lights or cooling system. A user can use any of these item as they are readily accessable and running in the background,~
+
+secondary, secondary memory,~ Secondary memory is the storage space where software, data and information relatively stored permanently. This mainly includes hard drives, optical drives, disks, USBs and Flash storage devices. Eg. Storage Space in the basement, storage room at Storage Center where unused items are stored but are still accessable to the user.,~
+
+how,~ Information is stored from an input device, i.e. keyboard or scanner, to the RAM which is the main memory which saves the files in the Hard drive or USB stick, secondary memory.,~

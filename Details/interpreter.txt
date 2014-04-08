@@ -1,0 +1,3 @@
+what, define, definition, interpretation,~ Similar to the compiler, interpreter is program that translates and executes code on a particular machine.,~
+
+how, strategy,~ An interpreter executes instructions written in a programming or scripting language, without previously batch-compiling them into machine language. It generally uses one of the following strategies for program execution. One, it parse the source code and perform its behavior directly. Another is that it translates source code into some efficient intermediate representation and immediately executes it. Also, it explicitly execute stored precompiled code made by a compiler which is part of the interpreter system.,~

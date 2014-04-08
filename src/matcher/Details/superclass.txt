@@ -1,0 +1,10 @@
+inheritance,~ The ability to derive a new class from an existing one. Inherited variables and methods of the original Parent class are available in the new Child class as if they were declared locally.,~
+
+child, child class,~ A class that inherits, methods and variables from its parent class.,~
+
+super,~ Super is a Java reserved word that is a reference to the parent class of the object making the reference. Often used to invoke a parent’s constructor.,~
+
+protected, protected method, protected class,~ A Java reserved word that serves as a visibility modifier for inner classes as well as methods and variables. A protected inner class Protected methods and variables are visible to all classes in the same package and to classes outside the package that extend the class.,~
+
+
+shadowing variable,~ The process of defining a variable in a subclass that supersedes an inherited version.,~

@@ -1,0 +1,1 @@
+when, how, what,~ You can use a block to make your code easier to read or when you have more than one line of code to be exectued as the result of an if statement or in a loop.

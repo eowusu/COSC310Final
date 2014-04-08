@@ -1,0 +1,7 @@
+comment, comments,~ A comment is a programming language construct that allows a programmer to embed humanreadable annotations into the source code.,~
+
+tabs, ~ The Java character symbol for inserting a tab is "\t".,~
+
+new line,~ The Java character symbol for inserting a new line is "\n".,~
+
+indenting,~ Is a structure to format code to make it more readable to programmers.,~

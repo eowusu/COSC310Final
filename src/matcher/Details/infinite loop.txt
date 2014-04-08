@@ -1,0 +1,11 @@
+what, define, definition,~ A recursive series of invocations that does not terminate because the base case is never reached.,~
+
+infinite loop,~ A common error encountered with while loops, this is a loop that will never end.,~
+
+loops,~ A tool for programmers to use. Any code placed inside a loop will execture as many times as the loop loops for.,~
+
+do while, do while loop,~ a form of while loop that is garentied to execute at least once.,~
+
+for loop,~ a loop that the programer can calculate how many times it will execute.,~
+
+iteration,~ An iteration is one round or loop the program takes when executing a body of a repetition statement.,~

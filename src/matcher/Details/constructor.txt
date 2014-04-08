@@ -1,0 +1,9 @@
+how, what, use, example,~ A constructor has no return type and is always public.  It may take parameters if you wish and in the constructor is where you should initialize all of your attributes in the class.  The constructor must have the same name as the class that it is in.,~
+
+return, return type,~ A constuctor has no return type.,~
+
+visible, visibility, visibilities,~ A constuctor is always public.,~
+
+input, inputs, parameter, parameters,~ A constructor may take parameters if you wish.  Attributes for the class should be initialized in the constructor.,~
+
+attributes, attribute, initialize, initiliazation, initializations,~ Attributes for the class should be initialized in the constructor, you can use some default values or pass in parameters if you wish.

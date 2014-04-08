@@ -1,0 +1,5 @@
+what, define,~ local area network, abbreviated as LAN, is a computer network designed mainly for homes or offices to span short distances and connect a relatively small number of computers.,~
+
+network, networks,~ Networking is when two or more devices are connected together so that they can exchange data and share resources.,~
+
+www, world wide web,~ Software that makes the exchange of information across a network easier by providing a common user interface for multiple types of information. Web browsers are used to retrieve and format HTML documents. It could be considered as a global scaled version of LAN.,~

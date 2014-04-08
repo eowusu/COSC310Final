@@ -1,0 +1,5 @@
+if,~ If, like switch statements, is a conditional statement that checks the if clause as a boolean. If "if" condition satisfies, the nested statement or block is executed. Otherwise, the if is ignored.,~
+
+else,~ Mainly used with an if statement, else is used to form a situational condition. Eg. If A != B, print A, Else exit program.,~
+
+nested, nested if,~ Nested if statements allow us to make a secondary decision using the result of the first one.,~

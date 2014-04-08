@@ -1,0 +1,3 @@
+declare, make, declares, makes,~ You can declare a double variable called x using 'double x;'.,~
+
+initialize, set, fill, give value, initializes, sets, fills, gives value,~ You can initialize a double variable x using 'x = 4;' or 'x = 3.5;'

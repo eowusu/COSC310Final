@@ -1,0 +1,3 @@
+what, define, overflow,~ A problem that occurs when a data value grows too large for its storage size, which can result in inaccurate arithmetic processing. Overflow mostly occurs due to hardware incapabilities,~
+
+buffer overflow,~ Buffer overflow is a situation whereby the incoming data size exceeds that which can be accommodated by a buffer.,~

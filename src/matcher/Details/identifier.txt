@@ -1,0 +1,3 @@
+what, how, use, used,~ Identifier is a java reserved syntax made from Java letters and numbers. Identifier names should be readable and descriptive. Eg. num1 for first defined value and MAX_HEIGHT for the height of a heap.,~
+
+sensitivity,~ Java is case sensitive so num1, Num1 and NUM1 are all different identifiers,~

@@ -1,0 +1,1 @@
+how, what, example, use,~ To concatenate two strings called 'a' and 'b' you just need to use 'a + b'.  If string a was 'Hello' and b was 'world' then 'a + b' would be 'Hello world'.

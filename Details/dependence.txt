@@ -1,0 +1,1 @@
+example, use, examples, uses,~ An example of a dependence relationship would be if a 'Human' class uses a 'Fork' object to complete the tasks required in the 'eating()' method.

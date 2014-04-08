@@ -1,0 +1,3 @@
+how, what, example, use,~ In a switch statement where the value used to make decisions on an int variable x example cases would be. case 1, case 2, case 3, etc.  Don't forget to use a break statement at the end of a case or else all cases below that one will also be executed.,~
+
+break,~ Use the break statement in each case after the code has been executed otherwise all cases after that one in the switch statement will also be executed.

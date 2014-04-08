@@ -1,0 +1,3 @@
+how, what, example, use,~ To use the debugger in Eclipse click on the little bug in the top menu or press the 'F11' key on Windows.  In the debugger you can step through your code so that you can have a better idea of what is going on.,~
+
+why,~ Debugging is used because as your code gets more complicated you will not be able to get it right everytime and your errors will be harder to see with print statements.  

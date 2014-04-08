@@ -1,0 +1,5 @@
+sort, sorts, sorting,~ Sorting is the process of putting a list of values into a well-defined order.,~
+
+search, searching,~ The process of determining the existence or location of a target value within a list of values. Some examples include Binary Search and Linear search,~
+
+binary search,~ Binary Search is a searching algorithm that requires that the list be sorted. It repetitively compares the “middle” element of the list to the target value, narrowing the scope of the search each time.,~

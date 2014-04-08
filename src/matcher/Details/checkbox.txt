@@ -1,0 +1,5 @@
+declare, make, decalres, makes,~ You can declare a checkbox called x using 'Checkbox x;'.,~
+
+initialize, set, fill, give value, initializes, sets, fills, gives value,~ You can initialize a checkbox variable x using 'x = new Checkbox();' or 'x = new Checkbox("Label");' to create a checkbox with the given label.  You can even use 'x = new Checkbox("Label", false)' to create a checkbox with the given label and an unchecked initial state.,~
+
+import,~ To use a checkbox you will need to import the java.awt.checkbox class.  If you are using Eclipse you can do this with 'Ctrl-Shift-o' on Windows or 'Cmd-Shift-o' on Mac.

@@ -1,0 +1,3 @@
+declare, make, decalres, makes,~ You can declare a boolean variable called x using 'boolean x;'.,~
+
+initialize, set, fill, give value, initializes, sets, fills, gives value,~ You can initialize a boolean variable x using 'x = true;' or 'x = false;'

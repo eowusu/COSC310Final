@@ -1,0 +1,10 @@
+visibility, visibility modifier,~ Visibility is a Java modifier that defines the scope in which a construct can be accessed. The Java visibility modifiers are public, protected, private, and default (no modifier used).,~
+
+variable, variables,~ Variables have a type. This type can be a base type, such as int or double, or an Object such as String.  Variables also need to have a name such as 'number'.,~
+
+method, methods,~ A named group of declarations and programming statements that can be invoked (executed) when needed. A method is part of a class.,~
+
+instance,~ An object created from a class. Multiple objects can be instantiated from a single class.,~
+
+class, classes,~ A class is a blueprint of an object—the model that defines the variables and methods an object will contain when instantiated.,~
+

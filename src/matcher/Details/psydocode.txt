@@ -1,0 +1,5 @@
+algorithm, algorithms~ An algorithm is a step-by-step process for solving a problem. A program is based on one or more algorithms.,~
+
+comment, comments,~ A comment is a programming language construct that allows a programmer to embed humanreadable annotations into the source code.,~
+
+prototype,~ A program used to explore an idea or prove the feasibility of a particular approach.,~

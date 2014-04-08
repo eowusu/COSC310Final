@@ -1,0 +1,7 @@
+psydocode,~ Structured and abbreviated natural language used to express the algorithmic steps of a program.,~
+
+software,~ Software is a Programs or set of programs that uses a GUI for user to enter and manipulate and data.,~
+
+server, servers,~ a computer or computer program that manages access to a centralized resource or service in a network.,~
+
+computer, computers,~ an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.,~

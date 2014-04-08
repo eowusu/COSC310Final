@@ -1,0 +1,9 @@
+what, define,~ Linked List is a dynamic data structure in which objects are linked using references.,~
+
+list,~ List is a GUI component that presents a list of items from which the user can choose. The current selection is highlighted in the list.,~
+
+object, objects,~ An object is an instance of a class.,~
+
+gui,~ Software that provides the means to interact with a program or operating system by making use of graphical images and point-and-click mechanisms, such as buttons and text fields.,~
+
+

@@ -1,0 +1,1 @@
+example,~ If we take the number 4 in Deciaml, what we normally count in, we can represent that number as 10 in binary.  This is because each place in binary has a value of 2^i where i starts at zero next to the decimal point an increases as you move to the left.  This is the same as in Decimal where each place has a value of 10^i.

@@ -1,0 +1,3 @@
+example,~ A bike that is made up of wheels, a frame, tires, pedals, gears, etc. would be an example of an aggregate object.,~
+
+how, what,~ To make an aggregate object make a class with attributes that are instances of object from other classes.

@@ -1,0 +1,1 @@
+how, what, example, use,~ You can only cast from a class to a parent class.  For example, if you have a method that returns a String in a variable called result you can cast the returned result to an Object using (Object) result.  You cannot cast from an Object to a String as Strings have attributes an methods that would be undefined in the Object class.

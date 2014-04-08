@@ -1,0 +1,267 @@
+what,~ this, this statement ,~
+up,~ Do you need help with anything? ,~
+with,~ Do you need help with anything? ,~
+what+is+the+dealio,~ G'day ,~
+The+prof+said+something+about+extend+today,~ Where are you having a hard time? ,~
+Does+the+class+need+to+be+any+different+somewhere+else+?,~ how, what, example, use ,~
+What+does+it+mean,~ search, searching ,~
+how,~ double, doubles ,~
+how,~ double, doubles ,~
+how+do+i+use+int,~ double, doubles ,~
+yes,~ double, doubles ,~
+yes,~ double, doubles ,~
+how+do+i+use+it,~ double, doubles ,~
+how,~ double, doubles ,~
+it,~ Where are you having a hard time? ,~
+integras,~ Can I help you? ,~
+size,~ double, doubles ,~
+size,~ int, ints, integer, integers, whole number, whole numbers ,~
+yet,~ Do you need help? ,~
+his,~ Howdy ,~
+what+in+pepper,~ What topic is giving you trouble? ,~
+what+in+pepper,~ What topic is giving you trouble? ,~
+what+in+pepper,~ What can I help you with? ,~
+what+in+balance,~ What can I help you with? ,~
+what+in+balance,~ Where are you having a hard time? ,~
+who+in+balance,~ What can I help you with? ,~
+yes,~ int, ints, integer,a integers, whole number, whole numbers ,~
+who+in+balance,~ What topic is giving you trouble? ,~
+who+in+balance,~ What area do you need help with? ,~
+yes,~ What area do you need help with? ,~
+who+in+balance,~ What topic is giving you trouble? ,~
+who+in+the+balance,~ Where are you having a hard time? ,~
+who+in+the+balance,~ What topic is giving you trouble? ,~
+who+in+the+balance,~ What area do you need help with? ,~
+who+in+the+balance,~ What topic is giving you trouble? ,~
+who+in+the+balance,~ Where are you having a hard time? ,~
+who+in+the+balance,~ What topic is giving you trouble? ,~
+who+in+the+balance,~ Where are you having a hard time? ,~
+who+in+the+balance,~ What can I help you with? ,~
+who+in+the+balance,~ Where are you having a hard time? ,~
+who+in+the+balance,~ What can I help you with? ,~
+who+in+the+balance,~ What can I help you with? ,~
+who+in+the+balance,~ What can I help you with? ,~
+who+in+the+balance,~ Where are you having a hard time? ,~
+who+in+the+balance,~ What can I help you with? ,~
+who+in+the+balance,~ Where are you having a hard time? ,~
+whom+in+the+balance,~ Where are you having a hard time? ,~
+who+in+the+balance,~ What can I help you with? ,~
+who+in+the+balance,~ What can I help you with? ,~
+what+in+quarter+complain,~ Do you need help? ,~
+who+in+the+balance,~ What can I help you with? ,~
+how,~ double, doubles ,~
+how,~ What topic is giving you trouble? ,~
+no,~ What topic is giving you trouble? ,~
+no,~ What topic is giving you trouble? ,~
+what+in+quarter+computing+?,~ What area do you need help with? ,~
+who+in+the+balance,~ Where are you having a hard time? ,~
+what+in+quarter+computing+?,~ What can I help you with? ,~
+who+in+the+balance,~ Where are you having a hard time? ,~
+what+in+quarter+computing+?,~ What can I help you with? ,~
+what+in+quarter+computing+?,~ Where are you having a hard time? ,~
+what+in+quarter+computing+?,~ Where are you having a hard time? ,~
+what+in+quarter+computing+?,~ What can I help you with? ,~
+what+in+quarter+computing+?,~ What area do you need help with? ,~
+who+in+the+balance,~ What topic is giving you trouble? ,~
+what+in+quarter+computing+?,~ Where are you having a hard time? ,~
+who+in+that+balance,~ Where are you having a hard time? ,~
+ who in the balance ,~ Where are you having a hard time? ,~
+ who is bill gates ,~ What area do you need help with? ,~
+ you arm now connected ,~ Good Afternoon ,~
+ Anything else regarding this topic ? ,~ how, what, use, example ,~
+ Anything else regarding this topic ? ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ repetition statement, do, for, while, loop, loops, iteration statement, iterative statement~ A programming construct that allows a set of statements to be executed repetitively as long as a particular condition is true. The body of the repetition statement should eventually make the condition false. Also called an iteration statement or loop.
+
+recursion ,~
+ Anything else regarding this topic ? ,~ do, do statement ,~
+ Anything else regarding this topic ? ,~ how, what, use, example ,~
+ what other questions do you have about this topic ? ,~ this, this statement ,~
+ I doubt know but I can find out want me to find that for your ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ while, while statement ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ this, this statement ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ while, while statement ,~
+ what crackin ? ,~ Whats up ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ What's crackin? ,~
+ what other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ how am I supposed to know that ? Give me a second while I find out . ,~ this, this statement ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ for, for statement, for statements ,~
+ Anything else regarding this topic ? ,~ do, do statement ,~
+ Anything else regarding this topic ? ,~ while, while statement ,~
+ I doubt know but I can find out want me to find that for your ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ for, for statement, for statements ,~
+ Anything else regarding this topic ? ,~ for, for statement, for statements ,~
+ Anything else regarding this topic ? ,~ repetition statement, do, for, while, loop, loops, iteration statement, iterative statement~ A programming construct that allows a set of statements to be executed repetitively as long as a particular condition is true. The body of the repetition statement should eventually make the condition false. Also called an iteration statement or loop.
+
+recursion ,~
+ what other questions do you have about this topic ? ,~ Do you need help with anything? ,~
+ Anything else regarding this topic ? ,~ how, what, use, example ,~
+ can I help your ,~ how, what, use, example ,~
+ how am I supposed to know that ? Give me a second while I find out . ,~ Can I help you? ,~
+ Anything else regarding this topic ? ,~ do, do statement ,~
+ how am I supposed to know that ? Give me a second while I find out . ,~ this, this statement ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ do, do statement ,~
+ Anything else regarding this topic ? ,~ do, do statement ,~
+ what other questions do you have about this topic ? ,~ Do you need help with anything? ,~
+ I doubt know but I can find out want me to find that for your ,~ do, do statement ,~
+ what other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ if, else, if-else statement ,~
+ can I help your ,~ if, else, if-else statement ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ Can I help you? ,~
+ Anything else regarding this topic ? ,~ for, for statement, for statements ,~
+ Anything else regarding this topic ? ,~ for, for statement, for statements ,~
+ Anything else regarding this topic ? ,~ for, for statement, for statements ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ this, this statement ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ for, for statement, for statements ,~
+ Anything else regarding this topic ? ,~ for, for statement, for statements ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ this, this statement ,~
+ can I help your ,~ Good Evening ,~
+ where arm you hearing a hard time ,~ Good Evening ,~
+ what other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ what other questions do you have about this topic ? ,~ Do you need help? ,~
+ can I help your ,~ Do you need help? ,~
+ Anything else regarding this topic ? ,~ Do you need help with anything? ,~
+ I doubt know but I can find out want me to find that for your ,~ do, do statement ,~
+ Anything else regarding this topic ? ,~ do, do statement ,~
+ I doubt know but I can find out want me to find that for your ,~ this, this statement ,~
+ what other questions do you have about this topic ? ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ how, what, use, example ,~
+ what other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Anything else regarding this topic ? ,~ while, while statement ,~
+ Anything else regarding this topic ? ,~ while, while statement ,~
+ Anything else regarding this topic ? ,~ Do you need help? ,~
+ Anything else regarding this topic ? ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ how, what, use, example ,~
+ Anything else regarding this topic ? ,~ while, while statement ,~
+ Anything else regarding this topic ? ,~ for, for statement, for statements ,~
+ can I help your ,~ Ahoy ,~
+ Anything else regarding this topic ? ,~ repetition statement, do, for, while, loop, loops, iteration statement, iterative statement~ A programming construct that allows a set of statements to be executed repetitively as long as a particular condition is true. The body of the repetition statement should eventually make the condition false. Also called an iteration statement or loop.
+
+recursion ,~
+ can I help your ,~ repetition statement, do, for, while, loop, loops, iteration statement, iterative statement~ A programming construct that allows a set of statements to be executed repetitively as long as a particular condition is true. The body of the repetition statement should eventually make the condition false. Also called an iteration statement or loop.
+
+recursion ,~
+ what other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ if, else, if-else statement ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ for, for statement, for statements ,~
+ Anything else regarding this topic ? ,~ repetition statement, do, for, while, loop, loops, iteration statement, iterative statement~ A programming construct that allows a set of statements to be executed repetitively as long as a particular condition is true. The body of the repetition statement should eventually make the condition false. Also called an iteration statement or loop.
+
+recursion ,~
+ what is ad integral ? ,~ double, doubles ,~
+ what is ad integral ? ,~ double, doubles ,~
+ what is ad integral ? ,~ double, doubles ,~
+ how would i change a tired ,~ how, what, use, example ,~
+ who is the balance ,~ Do you need help with anything? ,~
+ what in a integger ? ,~ Do you need help? ,~
+ edge ,~ Hi ,~
+ what is ad internal ,~ What topic is giving you trouble? ,~
+ can I help your ,~ Yo ,~
+ Anything else regarding this topic ? ,~ for, for statement, for statements ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ if, else, if-else statement ,~
+ can I help your ,~ if, else, if-else statement ,~
+ Anything else regarding this topic ? ,~ do, do statement ,~
+ Anything else regarding this topic ? ,~ this, this statement ,~
+ can I help your ,~ this, this statement ,~
+ I doubt know but I can find out want me to find that for your ,~ Can I help you? ,~
+ Anything else regarding this topic ? ,~ repetition statement, do, for, while, loop, loops, iteration statement, iterative statement~ A programming construct that allows a set of statements to be executed repetitively as long as a particular condition is true. The body of the repetition statement should eventually make the condition false. Also called an iteration statement or loop.
+
+recursion ,~
+ Anything else regarding this topic ? ,~ Do you need help with anything? ,~
+ Anything else regarding this topic ? ,~ how, what, use, example ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ this, this statement ,~
+ can I help your ,~ Greetings ,~
+ where arm you hearing a hard time ,~ Greetings ,~
+ Anything else regarding this topic ? ,~ for, for statement, for statements ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ if, else, if-else statement ,~
+ Anything else regarding this topic ? ,~ while, while statement ,~
+ Anything else regarding this topic ? ,~ Do you need help? ,~
+ what other questions do you have about this topic ? ,~ Do you need help with anything? ,~
+ what other questions do you have about this topic ? ,~ Do you need help with anything? ,~
+ I doubt know but I can find out want me to find that for your ,~ do, do statement ,~
+ what other questions do you have about this topic ? ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ how, what, use, example ,~
+ integers ,~ What area do you need help with? ,~
+ what is quarter computing ? ,~ What area do you need help with? ,~
+ how about interfaces ? ,~ what ,~
+ who is the balance ,~ structure, data structure, structures, data structures ,~
+ how do i do its ,~ for, for statement, for statements ,~
+ what is the difference between a dictionary and a hashmap ? ,~ Can I help you? ,~
+ wait in a integger ? ,~ What area do you need help with? ,~
+ what crackalackin ? ,~ Howdy ,~
+ Anything else regarding this topic ? ,~ search, searching ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ if, else, if-else statement ,~
+ Anything else regarding this topic ? ,~ do, do statement ,~
+ what other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ if, else, if-else statement ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ for, for statement, for statements ,~
+ Anything else regarding this topic ? ,~ while, while statement ,~
+ can I help your ,~ Greetings ,~
+ what topic is living you trouble ? ,~ Greetings ,~
+ Anything else regarding this topic ? ,~ while, while statement ,~
+ Anything else regarding this topic ? ,~ do, do statement ,~
+ what other questions do you have about this topic ? ,~ this, this statement ,~
+ what other questions do you have about this topic ? ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ Do you need help? ,~
+ what crackin ? ,~ Howdy ,~
+ Anything else regarding this topic ? ,~ repetition statement, do, for, while, loop, loops, iteration statement, iterative statement~ A programming construct that allows a set of statements to be executed repetitively as long as a particular condition is true. The body of the repetition statement should eventually make the condition false. Also called an iteration statement or loop.
+
+recursion ,~
+ I doubt know but I can find out want me to find that for your ,~ this, this statement ,~
+ what other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ how am I supposed to know that ? Give me a second while I find out . ,~ this, this statement ,~
+ can I help your ,~ this, this statement ,~
+ what can I help you with ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ for, for statement, for statements ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ if, else, if-else statement ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ for, for statement, for statements ,~
+ Anything else regarding this topic ? ,~ for, for statement, for statements ,~
+ I doubt know but I can find out want me to find that for your ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ repetition statement, do, for, while, loop, loops, iteration statement, iterative statement~ A programming construct that allows a set of statements to be executed repetitively as long as a particular condition is true. The body of the repetition statement should eventually make the condition false. Also called an iteration statement or loop.
+
+recursion ,~
+ what other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ can I help your ,~ for, for statement, for statements ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ Can I help you? ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ for, for statement, for statements ,~
+ Anything else regarding this topic ? ,~ while, while statement ,~
+ how am I supposed to know that ? Give me a second while I find out . ,~ this, this statement ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ while, while statement ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ this, this statement ,~
+ can I help your ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ catch ,~
+ what crackalackin ? ,~ Howdy ,~
+ what other questions do you have about this topic ? ,~ for, for statement, for statements ,~
+ Anything else regarding this topic ? ,~ while, while statement ,~
+ how am I supposed to know that ? Give me a second while I find out . ,~ this, this statement ,~
+ can I help your ,~ this, this statement ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ Can I help you? ,~
+ Anything else regarding this topic ? ,~ for, for statement, for statements ,~
+ Anything else regarding this topic ? ,~ how, what, use, example ,~
+ how am I supposed to know that ? Give me a second while I find out . ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ this, this statement ,~
+ can I help your ,~ this, this statement ,~
+ how am I supposed to know that ? Give me a second while I find out . ,~ Can I help you? ,~
+ what other questions do you have about this topic ? ,~ this, this statement ,~
+ what other questions do you have about this topic ? ,~ this, this statement ,~
+ I doubt know but I can find out want me to find that for your ,~ how, what, use, example ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ this, this statement ,~
+ Anything else regarding this topic ? ,~ do, do statement ,~
+ Anything else regarding this topic ? ,~ this, this statement ,~
+ how am I supposed to know that ? Give me a second while I find out . ,~ this, this statement ,~
+ who is the balance ,~ What topic is giving you trouble? ,~
+ who is the balance ,~ What area do you need help with? ,~
+ who is the balance ,~ What topic is giving you trouble? ,~
+ h ,~ Good Evening ,~
+ hurt ,~ Do you need help? ,~
+ who is the balance ,~ What topic is giving you trouble? ,~
+ who is the balance ,~ What topic is giving you trouble? ,~
+ do you need help with anything ? ,~ Greetings ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ Do you need help with anything? ,~
+ do you need help with anything ? ,~ Do you need help with anything? ,~
+ I doubt know but I can find out want me to find that for your ,~ Do you need help with anything? ,~
+ do you need help ,~ Do you need help with anything? ,~
+ i out ,~ Do you need help? ,~
+ how am I supposed to know that ? Give me a second while I find out . ,~ Do you need help with anything? ,~
+ how am I supposed to know that ? Give me a second while I find out . ,~ Do you need help? ,~
+ I doubt have that information on hand . Should I see what information I can find online ? ,~ Do you need help with anything? ,~

@@ -1,0 +1,7 @@
+representation,~ It consists of a finite and possibly mutable set of ordered pairs of nodes and vertices.,~
+
+node, nodes,~ In a graph, nodes are packets of information linked with other nodes,~
+
+vertex, vertices,~ Nodes are connected with vertices in a graph structure to form links. They even store information eg. the distance to the next node.,~
+
+path, paths,~ One of the operations graph data structure uses is finding a path between the 2 nodes for searching and find the shortest path eg. Dijkstra Algorithm.,~

@@ -1,0 +1,7 @@
+what, define,~ Overloading is when two or more methods have the same name but different signature (different argument types, different number of arguments).,~
+
+how, resolve, problem,~ Overloading is resolved statically, depending only on the static types of the arguments. The interaction of overloading and overriding, in Java makes the story a little more complicated. Overloading resolves statically to a particular method signature. Then at runtime, dynamic dispatch will select the most appropriate method with that signature.,~
+
+method, methods,~ A named group of declarations and programming statements that can be invoked (executed) when needed. A method is part of a class.,~
+
+

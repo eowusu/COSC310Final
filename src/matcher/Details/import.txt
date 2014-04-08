@@ -1,0 +1,7 @@
+what, import, mean, means, define, definition,~ Import is a declaration or a statement that makes abbreviating references to data and methods in other packages possible. Import is a Java reserved word that allows a named type to be referred to by a simple name rather than the full name including the package.,~
+
+example, examples,~ "import java.util.ArrayList;" is a java utility library that imports the ArrayList library. This helps you call certain predefined methods and functions.,~ 
+
+type, types,~ Import declarations can be single type import declarations or import-on-demand declarations.,~
+
+where,~ Import declarations must be placed at the top of a code file after the package declaration.,~

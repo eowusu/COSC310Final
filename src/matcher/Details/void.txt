@@ -1,0 +1,7 @@
+data type, data types,~ Signals the kind of information that a variable will store for example, integer,double or short.,~
+
+method, methods,~ A named group of declarations and programming statements that can be invoked (executed) when needed. A method is part of a class.,~
+
+variable, variables,~ Variables have a type. This type can be a base type, such as int or double, or an Object such as String.  Variables also need to have a name such as 'number'.,~
+
+reserved words,~ A reserved word is a word that has special meaning in a programming language and cannot be used for any other purpose.,~

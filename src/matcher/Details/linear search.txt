@@ -1,0 +1,7 @@
+linear search,~ Linear search is a search algorithm in which each item in the list is compared to the target value until the target is found or the list isexhausted. See also binary search.,~
+
+algorithm, algorithms,~ An algorithm is a step-by-step process for solving a problem. A program is based on one or more algorithms.,~
+
+search, searching,~ The process of determining the existence or location of a target value within a list of values. Some examples include Binary Search and Linear search,~
+
+logical, logical error,~ A problem stemming from inappropriate processing in the code. It does not cause an abnormal termination of the program, but it produces incorrect results.,~

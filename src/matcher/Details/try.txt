@@ -1,0 +1,5 @@
+catch,~ Catch is a Java reserved word that is used to specify an exception handler, defined after a try block.,~
+
+throws,~ A reserved word in java that is placed after the method name. Any named errors folling will be egnored in the programs execution.,~
+
+throw,~ throw keyword transfer control of execution to caller by throwing an instance of Exception.,~

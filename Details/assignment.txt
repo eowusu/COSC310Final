@@ -1,0 +1,9 @@
+how, example, what,~ An example of an assignment would be taking an int variable x and doing 'x = 56-5'.  This would store the value of 51 in x for use later in the program.  If there was another int variable y then 'y = x' would store the value 5 in y as well.,~
+
+increment, +=,~ You can increment the value stored using the += operator.  For example, if an int variable currently is storing the value 5 then 'x += 5' would make x now store the value 10.,~
+
+decrement, -=,~ You can increment the value stored using the += operator.  For example, if an int variable currently is storing the value 5 then 'x -= 5' would make x now store the value 0.,~
+
+multiply, *=,~ You can increment the value stored using the += operator.  For example, if an int variable currently is storing the value 5 then 'x *= 5' would make x now store the value 25.,~
+
+divide, /=,~ You can increment the value stored using the += operator.  For example, if an int variable currently is storing the value 5 then 'x /= 5' would make x now store the value 1.,~

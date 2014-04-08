@@ -1,0 +1,5 @@
+base,~ The base of a hex number is 16,~
+
+binary, convert, binary conversion,~ A short way to convert Binary to Hex is to divide the binary number such that each division(except the left most division) has 4 digits each. Now convert each division to a singular Hex value. Finally, combine them together to for the Hex for of the binary number. Use the same backward procedure to convert Hex to binary.,~
+
+use, usage, uses,~ As hex base is a multiple of binary, it allows a much more compact way of using binary system. It is simply useful to display large numbers using fewer digits. Using Hexadecimal, you can represent one byte(8 bits) in 2 digits,~

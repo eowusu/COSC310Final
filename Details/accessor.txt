@@ -1,0 +1,5 @@
+method,~ An accessor method is used to see the value of a private variable from outside the class where the variable is used.  It is usually called getVariableName() and has the same return type as the variable in question.,~
+
+parameter,~ An accessor(getter) does not take any parameters.,~
+
+return, return type,~ An accessor returns the type of the variable it is being used to access.,~

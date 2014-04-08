@@ -1,0 +1,6 @@
+doubly linked list, doubly linked, doubly-linked,~ Doubly-linked list is a linked-list data structure with two references in each node: one that refers to the next node in the list and one that refers to the previous node in the list.,~
+
+
+Linked-List,~ Linked List is a dynamic data structure in which objects are linked using references.,~
+
+tree, trees,~ A nonlinear data structure that forms a hierarchy stemming from a single root node. The most comment example is Binary Tree,~

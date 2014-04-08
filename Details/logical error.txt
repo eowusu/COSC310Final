@@ -1,0 +1,5 @@
+what, define, logical, logical error,~ A problem stemming from inappropriate processing in the code. It does not cause an abnormal termination of the program, but it produces incorrect results.,~
+
+debugger, dubug, debugging, debug,~ A debugger is a software tool that allows a programmer to step through an executing program and examine the value of variables at any point. In order not to get logical errors, avoid debugging the code. Instead, write a correct and properly documented code.,~
+
+example, examples,~ Some of the most common logical errors include, an incorrect formula, using a variable before a value is assigned to it, misplaced semicolons, confusion between = and ==, missing main method, and order of operations,~

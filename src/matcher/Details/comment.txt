@@ -1,0 +1,7 @@
+how, what, example, use,~ You can make the rest of a line a comment using '//'.  You can also create a block comment using '/* ... */'.  Comments of this form can span multiple lines.,~
+
+block,~ You can create a block comment using '/* ... */'.  Comments of this form can span multiple lines.,~
+
+line,~ You can make the rest of a line a comment using '//'.,~
+
+why,~ Comments make your code understandable more easily.  This is useful for other people needing to read your code or if you need to some back to the code later.

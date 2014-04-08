@@ -1,0 +1,5 @@
+method,~ A mutator method, also known as a setter, is used to control changes to a private variable.  It is usually called setVariableName() and has no return type as the method is set to void.,~
+
+parameter,~ A mutator(setter) takes the variable as a parameter.,~
+
+return, return type,~ A mutator has no return type.,~

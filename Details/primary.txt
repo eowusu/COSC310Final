@@ -1,0 +1,11 @@
+program,programs,~ code that works together to acomplish a certain goal,~
+
+server, servers,~ a computer or computer program that manages access to a centralized resource or service in a network.,~
+
+computer, computers,~ an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.,~
+
+RAM,~ Random Access Memory. Memory where your computer temporarily stores information. If the power is cut then the information is lost.,~
+
+secondary, secondary memory,~ Secondary Memory is used in Hardware storage devices, such as magnetic disks or tapes, which store information in a relatively permanent manner.,~
+
+memory, ram~ Hardware devices that store programs and data. There are 2 types of memory, primary and secondary memory.,~

@@ -1,0 +1,5 @@
+declare, make, decalres, makes,~ You can declare a button called x using 'Button x;'.,~
+
+initialize, set, fill, give value, initializes, sets, fills, gives value,~ You can initialize a button variable x using 'x = new Button();' or 'x = new Button("Label");' to create a button with the given label.
+
+import,~ To use a button you will need to import the java.awt.button class.  If you are using Eclipse you can do this with 'Ctrl-Shift-o' on Windows or 'Cmd-Shift-o' on Mac.

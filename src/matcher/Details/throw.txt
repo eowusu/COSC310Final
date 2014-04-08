@@ -1,0 +1,7 @@
+try,~ A Java reserved word that is used to define the context in which certain exceptions will be handled if they are thrown.,~
+
+error, errors,~ Any defect in a design or program, that can be thrown and processed by special catch blocks.,~
+
+throws,~ A reserved word in java that is placed after the method name. Any named errors folling will be egnored in the programs execution.,~
+
+catch,~ Catch is a Java reserved word that is used to specify an exception handler, defined after a try block.,~

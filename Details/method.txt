@@ -1,0 +1,17 @@
+what, define, method, methods,~ A named group of declarations and programming statements that can be invoked (executed) when needed. A method is part of a class.,~
+
+overloading, over-loading, over loading, overloading methods,~ Overloading is when two or more methods have the same name but different signature (different argument types, different number of arguments).,~
+
+abstract,~ Abstract is a Java reserved word that serves as a modifier for classes, interfaces, and methods.,~
+
+accessor, accessors, accessor method, accessor methods, getter, getters,~ An accessor method is used to return the value of a private field.,~
+
+append, append method, appends, appends method,~ The append() method concatenates the string representation of any other type of data to the end of the invoking StringBuffer object.,~
+
+class, classes,~ A class is a blueprint of an object—the model that defines the variables and methods an object will contain when instantiated.,~
+
+encapsulation,~ Encapsulation is the characteristic of an object that limits access to the variables and methods contained in it. All interaction with an object occurs through a defined interface.,~
+
+final,~ Final is a Java reserved word that serves as a modifier for classes, methods, and variables. A final class cannot be used to derive a new class. A final method cannot be overridden. A final variable is a constant.,~
+
+instance,~ An instance is an object created from a class. Multiple objects, be it instance methods or instance variables, can be instantiated from a single class.,~

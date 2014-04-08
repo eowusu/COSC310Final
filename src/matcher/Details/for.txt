@@ -1,0 +1,5 @@
+loop,~ For loop is an iteration statement which allows the code to be repeatedly executed.,~
+
+iterations,~ The for loop is mainly used when the number of iterations is known.,~
+
+infinite loop,~ Infinite for loops are to be avoided as it does not have any use and eats up hardware resources, crashing the program or the system itself.,~

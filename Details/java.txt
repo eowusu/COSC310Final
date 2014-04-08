@@ -1,0 +1,5 @@
+what, define, definition,~ Java is a high-level computer programming language that is class-based and object-oriented.,~
+
+independency, independent,~ Java is intended to run on any platform (write once, run anywhere or WORA). This means that the code can run on any platform and does not require recompilation for another.,~
+
+api, apis, java api,~ Java APIs are predefined libraries in Java consisting of extra softwares to help us develop programs. API stands for Application Programmer Interface. API helps you in creating graphics, communicating over networks and interact with the databases, and more.,~

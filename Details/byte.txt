@@ -1,0 +1,3 @@
+declare, make, decalres, makes,~ You can declare a byte variable called x using 'byte x;'.,~
+
+initialize, set, fill, give value, initializes, sets, fills, gives value,~ You can initialize a byte variable x using 'x = 4;'

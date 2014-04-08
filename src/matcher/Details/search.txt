@@ -1,0 +1,5 @@
+traverse, traversing,~ Traverse means to be looked up and not iterated through.,~
+
+algorithm, algorithms~ An algorithm is a step-by-step process for solving a problem. A program is based on one or more algorithms.,~
+
+binary search,~ Binary Search is a searching algorithm that requires that the list be sorted. It repetitively compares the “middle” element of the list to the target value, narrowing the scope of the search each time.,~

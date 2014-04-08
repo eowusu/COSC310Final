@@ -1,0 +1,9 @@
+web page,~ A documented location on the World Wide web that everyone can see.,~
+
+web site,~ A group of web pages all focusing on one topic hosted on the world wide web.,~
+
+internet,~ Internet is the most pervasive wide-area network in the world; it has become the primary vehicle for computer-to-computer communication.,~ 
+
+web server,~ A computer Who's job it is to provide access to a web page,.~
+
+IP address,~ An Internet Protocol address (IP address) is a numerical label assigned to each device.,~

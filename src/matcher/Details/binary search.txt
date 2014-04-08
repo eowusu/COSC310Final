@@ -1,0 +1,1 @@
+runtime, speed, efficiency,~ If the set you are searching on is sorted then binary search can find a given value in O(log(n)) where n is the amount of items in the set.

@@ -1,0 +1,11 @@
+debugger,~ A tool within eclips to test and debug programs.,~
+
+try,~ A Java reserved word that is used to define the context in which certain exceptions will be handled if they are thrown.,~
+
+object-oriented, object-oriented programming,~ A programming paradigm, a style of programing used by java and many other languages.,~
+
+compile, compiler,~ Compiler is a program that translates code from one language to equivalent code in another language. The Java compiler translates Java source code into Java bytecode.,~
+
+compile-time error, compile time, compile time error,~ Compile time error is an error that occurs during the compilation process, often indicating that a program does not conform to the language syntax or that an operation was attempted on an inappropriate data type.,~
+
+comment, comments,~ A comment is a programming language construct that allows a programmer to embed humanreadable annotations into the source code.,~

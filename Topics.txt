@@ -1,0 +1,331 @@
+abstract,~ Abstract is a Java reserved word that serves as a modifier for classes, interfaces, and methods.,~
+
+accessor, accessors, accessor method, accessor methods, getter, getters,~ An accessor method is used to return the value of a private field.,~
+
+aggregate object, aggregate objects, aggregate, aggregates, aggregation,~ An object that contains variables that are references to other objects.,~
+
+algorithm, algorithms,~ An algorithm is a step-by-step process for solving a problem. A program is based on one or more algorithms.,~
+
+api, apis,~ A set of classes that defines services for a programmer. Not part of the language itself, but often relied on to perform even basic tasks.,~
+
+append, append method, appends, appends method,~ The append() method concatenates the string representation of any other type of data to the end of the invoking StringBuffer object.,~
+
+applet, applets,~ A Java program that is linked into an HTML document, then retrieved and executed using a Web browser, as opposed to a standalone Java application.,~
+
+array, arrays,~ An array is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created. After creation, its length is fixed.,~
+
+array element,~ An array element is a value or object that is stored in an array as an element of the array. Each element in the array is referenced using a numerical index from 0 to N-1, where N is the size of the array.,~
+
+arraylist, array list,~ An ArrayList is a dynamic data structure, meaning items can be added and removed from the list.,~
+
+assignment,~ An assignment is an binary operator that takes two variables or values and assigns the value of the right variable to the left variable,~
+
+binary,~ Binary is a base-2 number system. Modern computer systems store information as strings of binary digits (bits).,~
+
+binary search,~ Binary Search is a searching algorithm that requires that the list be sorted. It repetitively compares the “middle” element of the list to the target value, narrowing the scope of the search each time.,~
+
+binary tree,~ Binary Tree is a tree data structure in which each node can have no more than two child nodes.,~
+
+bit, bits,~ A bit is a binary digit, either 0 or 1.,~
+
+block, blocks,~ A block is a group of programming statements or line of codes that is inbetween a set of braces '{}'.,~
+
+boolean, true/false, true or false, true, false, booleans,~ The boolean data type has only two possible values: true and false. Use this data type for simple flags that track true/false conditions. This data type represents one bit of information, but its "size" isn't something that's precisely defined.,~
+
+break, break statements,~ Break is a Java reserved word used to interrupt the flow of control by breaking out of the current loop or switch statement.,~
+
+bug,~ A bug is a slang term for a defect or error in a computer program.,~
+
+button,~ A button is a GUI component that allows the user to initiate an action, set a condition, or choose an option with a mouse click. There are several kinds of GUI buttons like check box, push button, radio button.,~
+
+byte, bytes,~ The byte data type is an 8-bit signed two's complement integer. It has a minimum value of -128 and a maximum value of 127 (inclusive). The byte data type can be useful for saving memory in large arrays, where the memory savings actually matters.,~
+
+case, cases,~ Case is used as a Java reserved word that is used to identify each unique option in a switch statement.,~
+
+cast, casts, casting, castings,~ Cast is a Java operation expressed using a type or class name in parentheses to explicitly convert and return a value of one data type into another.,~
+
+catch,~ Catch is a Java reserved word that is used to specify an exception handler, defined after a try block.,~
+
+char, chars, character, characters, letter,~ The char data type is a single 16-bit Unicode character. It has a minimum value of '\u0000' (or 0) and a maximum value of '\uffff' (or 65,535 inclusive).,~
+
+checkbox, checkboxes, check box, check boxes,~ Check boxes are a GUI component that allows the user to set a boolean condition with a mouse click. A check box can be used alone or independently among other check boxes.,~
+
+class, classes,~ A class is a blueprint of an object—the model that defines the variables and methods an object will contain when instantiated.,~
+
+color, colors,~ Color can be controlled by accessing the Color class.  The Color class yields the class constants shown in the table below.  The expression Color.red gives the Color constant for red.,~
+
+comment, comments,~ A comment is a programming language construct that allows a programmer to embed humanreadable annotations into the source code.  Comments are ignored by the computer when your program is run,~
+
+comparator,~ Comparator ,defined in java.util package, is used in interfaces to implement sorting.,~
+
+comparable,~ Comparable is used to implement natural ordering of object. Java's API String, Date and wrapper classes implements Comparable interface.Its always good practice to override compareTo() for value objects.,~
+
+compile, compiler,~ Compiler is a program that translates code from one language to equivalent code in another language. The Java compiler translates Java source code into Java bytecode.,~
+
+compile-time error, compile time, compile time error,~ Compile time error is an error that occurs during the compilation process, often indicating that a program does not conform to the language syntax or that an operation was attempted on an inappropriate data type.,~
+
+concatenation, string concatenation,~ Concatenation is the process of combining two strings together by the operand '+',~
+
+condition, conditions,~ A condition is a boolean expression used to determine whether the body of an if statement or a loop should be executed.,~
+
+constant, constants,~ Constant is identifier that contains a value that cannot be modified. Used to make code more readable and to facilitate changes. Defined in Java using the final modifier.,~
+
+constructor, constructors,~ Constructor is a special method in a class that is invoked when an object is instantiated from the class. Used to initialize the object.,~
+
+debugger, dubug, debugging, debug,~ A debugger is a software tool that allows a programmer to step through an executing program and examine the value of variables at any point.,~
+
+decimal,~ Decimal is a base-10 number system, which you use in everyday life.,~
+
+decrement, decrement operator, decrements,~ Decrement operator is an operator, denoted by '--', is used as assignment operator. x-- stands for x = x - 1. Eg. x = 8 then y = --x will decrement the value of x to 7 then store it in y where as y = x-- will store 8 in y then decrement the value of x.,~
+
+default,~ Default is a Java reserved word that is used to indicate the default case of a switch statement, used if no other cases match.,~
+
+dependence, dependency,~ Dependence is a relationship between two classes where one class uses another.,~
+
+design, designs, designing,~ Design is the plan for creating a program, which includes a specification of the classes and objects used and an expression of the important program algorithms.,~
+
+do, do statement,~ A do statement is a Java reserved word that represents a repetition construct. A do statement is executed one or more times. Also ask about for, while.,~
+
+double, doubles,~ The double data type is a double-precision 64-bit IEEE 754 floating point. For decimal values, this data type is generally the default choice. As mentioned above, this data type should never be used for precise values, such as currency.,~
+
+doubly linked list, doubly linked, doubly-linked,~ Doubly-linked list is a linked-list data structure with two references in each node: one that refers to the next node in the list and one that refers to the previous node in the list.,~
+
+editor, editors,~ An editor is a software tool that allows the user to enter and store a file of characters on a computer. Often used by programmers to enter the source code of a program.,~
+
+element,~ An element is a value or object stored in another object such as an array.,~
+
+encapsulation,~ Encapsulation is the characteristic of an object that limits access to the variables and methods contained in it. All interaction with an object occurs through a defined interface.,~
+
+error, errors,~ Any defect in a design or program. You may want to use the debugger to determine what is causing the error,~
+
+escapes, escaping, escape sequences, escape,~ Escape is a sequence of characters beginning with the backslash character (\), used to indicate a special situation when printing values. For example, the escape sequence \t specifies that a horizontal tab should be printed.,~
+
+exception, exceptions,~ Exception is an object that can be thrown and processed by special catch blocks.,~
+
+expression,~ Expression is a combination of operators and operands that produce a result.,~
+
+extends,~ Extends is a Java reserved word used to specify the parent class in the definition of a child class.,~
+
+final,~ Final is a Java reserved word that serves as a modifier for classes, methods, and variables. A final class cannot be used to derive a new class. A final method cannot be overridden. A final variable is a constant.,~
+
+finally,~ Finally is a Java reserved word that designates a block of code to be executed when an exception is thrown, after any appropriate catch handler is processed.,~
+
+float, floats,~ The float data type is a single-precision 32-bit IEEE 754 floating point. As with the recommendations for byte and short, use a float (instead of double) if you need to save memory in large arrays of floating point numbers. This data type should never be used for precise values, such as currency. For that, you will need to use the java.math.BigDecimal class instead.,~
+
+for, for statement, for statements,~ For is A Java reserved word that represents a loop or a repetition construct. A for statement is executed zero or more times and is usually used when a precise number of iterations is known.,~
+
+frame, frames,~ Frame is a container window for the graphical components of a GUI that includes control.,~
+
+func, function, functions,~ A named group of declarations and programming statements that can be invoked (executed) when needed. A function that is part of a class is called a method. Java has no functions because all code is part of a class.,~
+
+graph, graphs,~ A nonlinear data structure made up of nodes and edges that connect the nodes. See also digraph.,~
+
+gui,~ Software that provides the means to interact with a program or operating system by making use of graphical images and point-and-click mechanisms, such as buttons and text fields.,~
+
+handler, handling, exception handling, exception handler,~ Exception handling uses try, catch and finally blocks to capture exceptional events and handle them to get a singular expected output.,~
+
+heap, heaps,~ Heap is a binary tree data structure that satisfies the heap property: If A is a parent node of B then the key of node A is ordered with respect to the key of node B with the same ordering applying across the heap.,~
+
+hexadecimal,~ The base-16 number system, often used as an abbreviated representation of binary strings.,~
+
+hierarchy, inheritance,~ Hierarchy allows a class to be a subclass of one other class, or superclass, and to implement zero or more interfaces. This allows the subclasses to inherit variables and methods from its superclass,~
+
+identifier,~ Any name that a programmer makes up to use in a program, such as a class name or variable name.,~
+
+if, else, if-else statement,~ A Java reserved word that specifies a simple conditional construct.,~
+
+image,~ A picture, often specified using the GIF, JPEG, or PING formats. See also icon.,~
+
+implementation,~ The process of translating a design into source code. Implementation is also refered to the source code that defines a method, class, abstract data type, or other programming entity.,~
+
+implements,~ A Java reserved word that is used in a class declaration to specify that the class implements the methods specified in a particular interface.,~
+
+implicit,~ Implicit means a certain task is done by the Java Virtual Machine or the tool, not the programmer. Eg. Java will provide us default constructor implicitly.Even if the programmer didn't write code for constructor, he can call default constructor.,~
+
+import,~ A Java reserved word that is used to specify the packages and classes that are used in a particular Java source code file.,~
+
+increment, increment operator,~ Increment operator is an operator, denoted by '++', is used as assignment operator. x++ stands for x=x+1. Eg. x=8 theny=++x will increment the value of x to 9 then store it in y where as y=x++ will store 8 in y then increment the value.,~
+
+index,~ The integer value used to specify a particular element in an array.,~
+
+infinite loop,~ A loop that does not terminate because the condition controlling the loop never becomes false.,~
+
+infinite recursion,~ A recursive series of invocations that does not terminate because the base case is never reached.,~
+
+inheritance,~ The ability to derive a new class from an existing one. Inherited variables and methods of the original Parent class are available in the new Child class as if they were declared locally.,~
+
+insertion sort,~ Insertion Sort is a sorting algorithm in which each value, one at a time, is inserted into a sorted subset of the entire list. See also selection sort.,~
+
+instance,~ An instance is an object created from a class. Multiple objects, be it instance methods or instance variables, can be instantiated from a single class.,~
+
+instantiate, instantiation,~ It is the act of creating an object from a class.,~
+
+int, ints, integer,a integers, whole number, whole numbers,~ By default, the int data type is a 32-bit signed two's complement integer, which has a minimum value of -2^31 and a maximum value of 2^31 -1.,~
+
+internet,~ Internet is the most pervasive wide-area network in the world; it has become the primary vehicle for computer-to-computer communication.,~
+
+interface,~ A Java reserved word that is used to define a set of abstract methods that will be implemented by particular classes. (2) The set of messages to which an object responds, defined by the methods that can be invoked from outside of the object. (3) The techniques through which a human user interacts with a program, often graphically.,~
+
+interpreter,~ Similar to the compiler, interpreter is program that translates and executes code on a particular machine.,~
+
+iteration,~ An iteration is one round or loop the program takes when executing a body of a repetition statement.,~
+
+java,~ Java is a programming language used throughout this text to demonstrate software development concepts. Described by its developer as object oriented, robust, secure, architecture neutral, portable, high-performance, interpreted, threaded, and dynamic.,~
+
+late binding, dynamic binding,~ Late binding is a runtime process of looking up a declaration, by name, that corresponds to a uniquely specified type. It does not involve type checking during compilation, when referencing libraries, including an object, is not required.,~
+
+linear search,~ Linear search is a search algorithm in which each item in the list is compared to the target value until the target is found or the list isexhausted. See also binary search.,~
+
+linked-List,~ Linked List is a dynamic data structure in which objects are linked using references.,~
+
+list,~ List is a GUI component that presents a list of items from which the user can choose.,~
+
+local, local variable,~ Local variable is a variable defined within a method, which does not exist except during the execution of the method.,~
+
+local area network, lan,~ LAN is a computer network designed mainly for homes or offices to span short distances and connect a relatively small number of computers.,~
+
+logical, logical error,~ A problem stemming from inappropriate processing in the code. It does not cause an abnormal termination of the program, but it produces incorrect results.,~
+
+long, longs,~ The long data type is a 64-bit two's complement integer. The signed long has a minimum value of -2^63 and a maximum value of 2^63 -1. Use this data type when you need a range of values wider than those provided by int.,~ 
+
+machine language,~ Machine language is a native language of a particular CPU. Any software that runs on a particular CPU must be translated into its machine language.,~
+
+memory, ram,~ Hardware devices that store programs and data. There are 2 types of memory, primary and secondary memory.,~
+
+method, methods,~ A named group of declarations and programming statements that can be invoked (executed) when needed. A method is part of a class.,~
+
+modifier,~ A designation used in a Java declaration that specifies particular characteristics to the construct being declared.,~
+
+multiple inheritance,~ Deriving a class from more than one parent, inheriting methods and variables from each. Multiple inheritance is NOT supported in Java.,~
+
+mutator, mutators, mutator method,~ A mutator method is used to set a value of a private field.,~
+
+nesting, nested loops, nested blocks,~ Nesting or nested blocks refers to a block of code declared within another block to help implementing and restricting access.,~
+
+network, networks,~ Two or more computers connected together so that they can exchange data and share resources.,~
+
+null,~ A Java reserved word that is a reference literal, used to indicate that a reference does not currently refer to any object.,~
+
+object, objects,~ An instance of a class.,~
+
+operand, operands,~ A value on which an operator performs its function. For example, in the expression 5 + 2, the values 5 and 2 are operands.,~
+
+operator, operators,~ A symbol that represents a particular operation in a programming language, such as the addition operator (+).,~
+
+overflow,~ A problem that occurs when a data value grows too large for its storage size, which can result in inaccurate arithmetic processing.,~
+
+overloading,~ Assigning additional meaning to a programming language construct, such as a method or operator. Method overloading is supported by Java, but operator overloading is not.,~
+
+overriding,~ The process of modifying the definition of an inherited method to suit the purposes of the subclass.,~
+
+package, packages,~ Java reserved word that is used to specify a group of related classes.,~
+
+panel,~ A panel is a GUI container that holds and organizes other GUI components.,~
+
+parameter,~ A value passed from a method invocation to its definition.,~
+
+parsing,~ Usually done by the compiler, parsing is the process of sequencial source program instructions or some user defined interface, breaks a given object into pieces and manages it by other programming.,~
+
+pointer, pointers,~ A variable that can hold a memory address. Instead of pointers, Java uses references, which provide essentially the same functionality as pointers but without the need for explicit dereferencing.,~
+
+polymorphism,~ An object-oriented technique by which a reference that is used to invoke a method can result in different methods being invoked at different times. All Java method invocations are potentially polymorphic in that they invoke the method of the object type, not the reference type.,~
+
+primary, primary memory, main memory, primary storage, main storage,~ computer memory that a processor or computer accesses first or directly but the data stored in this memory is temporary and is wiped out when the system shuts down.,~
+
+print, println,~ It is a reserved work passed to the system to output a given statement and print it.,~
+
+private,~ A Java reserved word that serves as a visibility modifier for inner classes as well as methods and variables. A private inner class is accessible only to members of the class in which it is declared. Private methods and variables are visible only in the class in which they are declared.,~
+
+prompt,~ Prompt is a message or symbol used to request information from the user.,~
+
+protected, protected method, protected class,~ A Java reserved word that serves as a visibility modifier for inner classes as well as methods and variables. A protected inner class Protected methods and variables are visible to all classes in the same package and to classes outside the package that extend the class.,~
+
+prototype,~ A program used to explore an idea or prove the feasibility of a particular approach.,~
+
+psydocode,~ Structured and abbreviated natural language used to express the algorithmic steps of a program.,~
+
+public,~ A Java reserved word that serves as a visibility modifier for classes, interfaces, methods, and variables. Anything declared public is visible to all classes.,~
+
+queue,~ An abstract data type that manages information in a first-in, first-out manner.,~
+
+radio button,~ A GUI component that allows the user choose one of a set of options with a mouse click. A radio button is useful only as part of a group of other radio buttons.,~
+
+recursion,~ The process of a method invoking itself, either directly or indirectly. Recursive algorithms sometimes provide elegant, though perhaps inefficient, solutions to a problem.,~
+
+repetition statement, do-while, for, while, loop, loops, iteration statement, iterative statement,~ A programming construct that allows a set of statements to be executed repetitively as long as a particular condition is true. The body of the repetition statement should eventually make the condition false. Also called an iteration statement or loop.,~
+
+reserved words,~ A reserved word is a word that has special meaning in a programming language and cannot be used for any other purpose.,~
+
+return,~ A Java reserved word that causes the flow of program execution to return from a method to the point of invocation.,~
+
+return type,~ The type of value returned from a method, specified before the method name in the method declaration. Could be void, which indicates that no value is returned.,~
+
+run time, run-time, runtime, runtime error,~ A problem that occurs during program execution that causes the program to terminate abnormally.,~
+
+scanner, scanner class,~ The Scanner class is a class in java.util, which allows the user to read values of various types.,~
+
+search, searching,~ The process of determining the existence or location of a target value within a list of values. Some examples include Binary Search and Linear search,~
+
+secondary, secondary memory,~ Secondary Memory is used in Hardware storage devices, such as magnetic disks or tapes, which store information in a relatively permanent manner.,~
+
+selection sort,~ Selection sort is sorting algorithm in which each value, one at a time, is placed in its final, sorted position.,~
+
+shadowing variable,~ The process of defining a variable in a subclass that supersedes an inherited version.,~
+
+short,~ The short data type is a 16-bit integer. It has a minimum value of -32,768 and a maximum value of 32,767 (inclusive).,~
+
+sibling, siblings,~ Two items in a tree or hierarchy, such as a class inheritance hierarchy, that have the same parent.,~
+
+software,~ Software is a Programs or set of programs that uses a GUI for user to enter and manipulate and data.,~
+
+sort, sorts, sorting,~ Sorting is the process of putting a list of values into a well-defined order.,~
+
+stack,~ An abstract data type that manages data in a last-in, first-out manner.,~
+
+static,~ Static is a Java reserved word that serves as a modifier for methods and variables. A static method is also called a class method and can be referenced without an instance of the class. A static variable is also called a class variable and is common to all instances of the class.,~
+
+string, strings, sentence,~ The String class represents character strings. All string literals in Java programs, such as "abc", are implemented as instances of this class. The String class has many built-in methods that can be used with the string.,~
+
+structure, data structure, structures, data structures,~ Data Structure is a programming construct, either defined in the language or by a programmer, used to organize data into a format to facilitate access and processing. Arrays, linked lists, and stacks can all be considered data structures.,~
+
+subclass, subclasses,~ A subclass is a class that is derived from another class, mainly a superclass.,~
+
+super,~ Super is a Java reserved word that is a reference to the parent class of the object making the reference. Often used to invoke a parent’s constructor.,~
+
+superclass, parent class, base class,~ The class from which another class is derived via inheritance.,~
+
+switch,~ Switch is Java reserved word used to construct switch statements that specifies a compound conditional construct. Note that in order to iterate through the program, a Break statement should be included.,~
+
+syntax, syntax error,~ An error produced by the compiler because a program did not conform to the syntax of the programming language. Syntax errors are a subset of compile-time errors.,~
+
+text field,~ Text field is a GUI component that displays, or allows the user to enter, a single line of data.,~
+
+this, this statement,~ A Java reserved word that is a reference to the object executing the code making the reference.,~
+
+throw,~ A Java reserved word that is used to start an exception propagation.,~
+
+traverse, traversing,~ Traverse means to be looked up and not iterated through.,~
+
+tree, trees,~ A nonlinear data structure that forms a hierarchy stemming from a single root node. The most comment example is Binary Tree,~
+
+try,~ A Java reserved word that is used to define the context in which certain exceptions will be handled if they are thrown.,~
+
+underflow,~ A problem that occurs when a floating point value becomes too small for its storage size, which can result in inaccurate arithmetic processing.,~
+
+unit test, unit tests, tests,~ The process of testing an individual software component. May require the creation of stub modules to simulate other system components.,~
+
+uml, unified modeling language,~ UML, aka Unified Modeling Language, is a graphical diagram representation of object-oriented applications,~
+
+variable, variables,~ Variables have a type. This type can be a base type, such as int or double, or an Object such as String.  Variables also need to have a name such as 'number'.,~
+
+visibility, visibility modifier,~ Visibility is a Java modifier that defines the scope in which a construct can be accessed. The Java visibility modifiers are public, protected, private, and default (no modifier used).,~
+
+void,~ A Java reserved word that can be used as a return value for a method, indicating that no value is returned.,~
+
+while, while statement,~ While is a Java reserved word that represents a repetition construct. A while statement is executed zero or more times.,~
+
+white spaces, spaces,~ White Spaces are Spaces, tabs, and blank lines that are used to set off sections of source code to make programs more readable.,~
+
+wrapper, wrapper class,~ Wrapper Class is a class designed to store a primitive type in an object. Usually used when an object reference is needed and a primitive type would not suffice.,~
+
+www, world wide web,~ Software that makes the exchange of information across a network easier by providing a common user interface for multiple types of information. Web browsers are used to retrieve and format HTML documents.,~

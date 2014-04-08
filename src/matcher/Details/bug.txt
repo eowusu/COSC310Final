@@ -1,0 +1,1 @@
+how, what, fix,~ To fix a bug you may want to play with the debugger feature in Eclipse.  This will allow you to see the values of your variables as the code runs and get a better idea of what is going on in the code and where the bug is.

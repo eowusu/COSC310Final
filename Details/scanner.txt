@@ -1,0 +1,7 @@
+prompt,~ Prompt is a message or symbol used to request information from the user.,~
+
+string, strings, sentence,~ The String class represents character strings. All string literals in Java programs, such as "abc", are implemented as instances of this class. The String class has many built-in methods that can be used with the string.,~
+
+object, objects,~ An instance of a class.,~
+
+variable, variables,~ Variables have a type. This type can be a base type, such as int or double, or an Object such as String.  Variables also need to have a name such as 'number'.,~

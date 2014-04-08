@@ -1,0 +1,1 @@
+how, why, what, example, use,~ A catch clause must take an Exception type as a paramter and then inside the catch clause you can write any code that you want.  For example, to catch array out of bounds exceptions you would write 'catch(ArrayIndexOutOfBoundsException e){}'

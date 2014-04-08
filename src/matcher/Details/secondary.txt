@@ -1,0 +1,9 @@
+RAM,~ Random Access Memory. Memory where your computer temporarily stores information. If the power is cut then the information is lost.,~
+
+writing to files, writing, saving,~ One way for programs to store information permanently is to write the information to a file.,~
+
+primary, primary memory, main memory, primary storage, main storage,~ computer memory that a processor or computer accesses first or directly but the data stored in this memory is temporary and is wiped out when the system shuts down.,~
+
+software,~ Software is a Programs or set of programs that uses a GUI for user to enter and manipulate and data.,~
+
+memory, ram~ Hardware devices that store programs and data. There are 2 types of memory, primary and secondary memory.,~

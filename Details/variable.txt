@@ -1,0 +1,17 @@
+
+visibility, visibility modifier,~ Visibility is a Java modifier that defines the scope in which a construct can be accessed. The Java visibility modifiers are public, protected, private, and default (no modifier used).,~
+
+object, objects,~ An instance of a class.,~
+
+data type, data types,~ Signals the kind of information that a variable will store for example, integer,double or short.,~
+
+array, arrays,~ An array is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created. After creation, its length is fixed.,~
+
+primary, primary memory, main memory, primary storage, main storage,~ computer memory that a processor or computer accesses first or directly but the data stored in this memory is temporary and is wiped out when the system shuts down.,~
+
+memory, ram~ Hardware devices that store programs and data. There are 2 types of memory, primary and secondary memory.,~
+
+
+instance variable,~ A variable that must be referenced through a particular instance of a class, as opposed to a class variable.,~
+
+identifier,~ Any name that a programmer makes up to use in a program, such as a class name or variable name.,~

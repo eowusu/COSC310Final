@@ -1,0 +1,11 @@
+testing,~ The processing of testing code to make sure it functions as expected.,~
+
+User Testing, User Tests, User Test,~ Testing software on users to get thier feedback on the software.,~
+
+debugger,~ A tool within eclips to test and debug programs.,~
+
+breakpoints,~ Marking a spot in code where the program will pause and wait for the programer to tell it to continue.,~
+
+Yves,~ Avoid this prof at all costs.,~ 
+
+comment, comments,~ A comment is a programming language construct that allows a programmer to embed humanreadable annotations into the source code.,~

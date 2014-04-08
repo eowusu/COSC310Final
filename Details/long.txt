@@ -1,0 +1,3 @@
+declare, make, decalres, makes,~ You can declare a long variable called x using 'long x;'.,~
+
+initialize, set, fill, give value, initializes, sets, fills, gives value,~ You can initialize a long variable x using 'x = 487;' or 'x = 35846624;',~

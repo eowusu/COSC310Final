@@ -1,0 +1,17 @@
+loops,~ A tool for programmers to use. Any code placed inside a loop will execture as many times as the loop loops for.,~
+
+do while,~ a form of while loop that is garentied to execute at least once.,~
+
+for loop,~ a loop that the programer can calculate how many times it will execute.,~
+
+Arrays,~ A sequence of varables that all have the same name but have a different, index. These indexies are offen accessed by loops.,~
+
+infinite loop,~ A common error encountered with while loops, this is a loop that will never end.,~
+
+repetition statement, do, for, while, loop, loops, iteration statement, iterative statement~ A programming construct that allows a set of statements to be executed repetitively as long as a particular condition is true. The body of the repetition statement should eventually make the condition false. Also called an iteration statement or loop.
+
+recursion,~ The process of a method invoking itself, either directly or indirectly. Recursive algorithms sometimes provide elegant, though perhaps inefficient, solutions to a problem.,~
+
+iteration,~ An iteration is one round or loop the program takes when executing a body of a repetition statement.,~
+
+infinite recursion,~ A recursive series of invocations that does not terminate because the base case is never reached.,~

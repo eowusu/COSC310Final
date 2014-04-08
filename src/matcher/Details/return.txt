@@ -1,0 +1,7 @@
+reserved words,~ A reserved word is a word that has special meaning in a programming language and cannot be used for any other purpose.,~
+
+void,~ A Java reserved word that can be used as a return value for a method, indicating that no value is returned.,~
+
+variable, variables,~ Variables have a type. This type can be a base type, such as int or double, or an Object such as String.  Variables also need to have a name such as 'number'.,~
+
+method, methods,~ A named group of declarations and programming statements that can be invoked (executed) when needed. A method is part of a class.,~

@@ -1,0 +1,6 @@
+what, definition, define,~ Implements clause is a java reserved word known to form a listener classes or interfaces required by the GUI.,~
+
+implementation,~ An implementation is the idea and understanding of a technical specification or algorithm as a program, software component, or other computer system through computer programming.,~
+
+interface,~ An interface is a Java interface is a collection of constants and abstract methods. This solves the problem of multiple inheritance in Java as a class can implement multiple interfaces and vice versa,~
+

@@ -1,0 +1,3 @@
+what, define, definition,~ Index is a numerical non-negative values. With the help of proper indices, you can avoid each element iteration and perform complex queries over millions of objects quickly.~
+
+example, examples,~ For example, you can use certain unique indices. Eg. @Index(member={"Lname","Fname"}),~

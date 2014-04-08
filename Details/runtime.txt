@@ -1,0 +1,13 @@
+compile-time error, compile time, compile time error,~ Compile time error is an error that occurs during the compilation process, often indicating that a program does not conform to the language syntax or that an operation was attempted on an inappropriate data type.,~
+
+bug,~ A bug is a slang term for a defect or error in a computer program.,~
+
+error, errors,~ Any defect in a design or program, that can be thrown and processed by special catch blocks.,~
+
+debugger, dubug, debugging,~ A debugger is a software tool that allows a programmer to step through an executing program and examine the value of variables at any point.,~
+
+try,~ A Java reserved word that is used to define the context in which certain exceptions will be handled if they are thrown.,~
+
+throws,~ A reserved word in java that is placed after the method name. Any named errors folling will be egnored in the programs execution.,~
+
+throw,~ throw keyword transfer control of execution to caller by throwing an instance of Exception.,~

@@ -1,0 +1,11 @@
+variable, variables,~ Variables have a type. This type can be a base type, such as int or double, or an Object such as String.  Variables also need to have a name such as 'number'.,~
+
+data type, data types,~ Signals the kind of information that a variable will store for example, integer,double or short.,~
+
+float, floats,~ The float data type is a single-precision 32-bit IEEE 754 floating point. As with the recommendations for byte and short, use a float (instead of double) if you need to save memory in large arrays of floating point numbers. This data type should never be used for precise values, such as currency. For that, you will need to use the java.math.BigDecimal class instead.,~
+
+operator, operators,~ A symbol that represents a particular operation in a programming language, such as the addition operator (+).,~
+
+try,~ A Java reserved word that is used to define the context in which certain exceptions will be handled if they are thrown.,~
+
+overflow,~ A problem that occurs when a data value grows too large for its storage size, which can result in inaccurate arithmetic processing.,~

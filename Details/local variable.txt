@@ -1,0 +1,5 @@
+what, define, local variable,~ Local variable is a variable defined within a method, which does not exist except during the execution of the method. This also helps overriding the variable if the same variable, in a different context, is used.,~
+
+method, methods,~ A named group of declarations and programming statements that can be invoked (executed) when needed. A method is part of a class.,~
+
+encapsulation,~ Encapsulation is the characteristic of an object that limits access to the variables and methods contained in it. All interaction with an object occurs through a defined interface.,~

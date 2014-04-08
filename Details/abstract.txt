@@ -1,0 +1,5 @@
+method, methods,~ An abstract method only has a method header and no method body, use a ';' instead of '{}' to make a method abstract,~
+
+interface, interface,~ You don't need to use abstract in declaring an interface but make sure all of your methods are abstract in the interface,~
+
+class, classes,~ An abstract class has only abstract methods and may have attributes. This is usually used for making a parent class that will never be used to make an object.

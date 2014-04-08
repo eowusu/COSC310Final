@@ -1,0 +1,1 @@
+how, what, example, use,~ An example of an expression would be '2 + (5 - 3)', this would produce the result '4' which could then be stored in an int variable.  Expressions can also be non numerical such as string concatenation.

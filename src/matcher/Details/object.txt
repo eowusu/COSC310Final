@@ -1,0 +1,9 @@
+what, define,~ An object is a location in memory having a value and referenced by an identifier. An object can be a variable, function, or data structure. In the object-oriented programming paradigm,"object," refers to a particular instance of a class where the object can be a combination of variables, functions, and data structures. In general java terms, an object is an instance of a class.,~
+
+polymorphism,~ An object-oriented technique by which a reference that is used to invoke a method can result in different methods being invoked at different times. All Java method invocations are potentially polymorphic in that they invoke the method of the object type, not the reference type.,~
+
+inheritance,~ The ability to derive a new class from an existing one. Inherited variables and methods of the original Parent class are available in the new Child class as if they were declared locally.,~
+
+data structure, structures, data structures,~ Data Structure is a programming construct, either defined in the language or by a programmer, used to organize data into a format to facilitate access and processing. Arrays, linked lists, and stacks can all be considered data structures.,~
+
+aggregate object, aggregate objects, aggregate, aggregates, aggregation,~ An object that contains variables that are references to other objects.,~

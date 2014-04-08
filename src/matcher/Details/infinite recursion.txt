@@ -1,0 +1,11 @@
+what, when, define, definition,~ A recursive call to a series of invocations that does not terminate because it never reaches the base case.,~
+
+example, examples,~ Suppose i is a pointer and is incremented but the base case is never set where i<30. The recursive call acts as an infinite loop that will never end.,~
+
+infinite loop,~ A common error encountered with while loops, this is a loop that will never end.,~
+
+loops,~ A tool for programmers to use. Any code placed inside a loop will execture as many times as the loop loops for.,~
+
+infinite loop,~ A common error encountered with while loops, this is a loop that will never end.,~
+
+loops,~ A tool for programmers to use. Any code placed inside a loop will execture as many times as the loop loops for.,~

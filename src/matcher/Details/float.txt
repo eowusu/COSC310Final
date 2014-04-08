@@ -1,0 +1,5 @@
+precision,~ Single precision floating point has a precision of 32bits in a computer memory,~
+
+conversion,~ There are 2 types of conversions: Widening and Narrowing. Widening Conversions do not loose information eg converting float to double. Narrowing conversion are more likely to loose information eg. it requires less space to use an integer than a float so converting a float to integer will loose the precision and display 5.287 to 5.,~
+
+comparison,~ Two floating point values are equal, according to the == operator, only if all the binary digits of their underlying representations match. However, a better practice would be to use a modulus of the difference between two points ,~

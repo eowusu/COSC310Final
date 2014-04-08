@@ -1,0 +1,11 @@
+program,programs,~ code that works together to acomplish a certain goal,~
+
+server, servers,~ a computer or computer program that manages access to a centralized resource or service in a network.,~
+
+computer, computers,~ an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.,~
+
+prototype,~ A program used to explore an idea or prove the feasibility of a particular approach.,~
+
+primary, primary memory, main memory, primary storage, main storage,~ computer memory that a processor or computer accesses first or directly but the data stored in this memory is temporary and is wiped out when the system shuts down.,~
+
+network, networks,~ Two or more computers connected together so that they can exchange data and share resources.,~

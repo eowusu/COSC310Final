@@ -1,0 +1,5 @@
+button, buttons,~ A frame might include scrollable or clickable buttons for more user friendly graphical user interface,~
+
+style, styles,~ Mainly in the shape of a rectangele box with varing sizes depending on the type and structure of the data.,~
+
+group, grouping, structure,~ It is generally considered that grouping looks beter than leaving items or widgets outside a frame,~

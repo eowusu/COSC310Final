@@ -1,0 +1,5 @@
+compile, compiler,~ Compiler is a program that translates code from one language to equivalent code in another language. The Java compiler translates Java source code into Java bytecode.,~
+
+object, objects,~ An instance of a class.,~
+
+string, strings, sentence,~ The String class represents character strings. All string literals in Java programs, such as "abc", are implemented as instances of this class. The String class has many built-in methods that can be used with the string.,~

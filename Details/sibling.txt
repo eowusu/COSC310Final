@@ -1,0 +1,7 @@
+hierarchy, inheritance,~ Hierarchy allows a class to be a subclass of one other class, or superclass, and to implement zero or more interfaces. This allows the subclasses to inherit variables and methods from its superclass,~
+
+inheritance,~ The ability to derive a new class from an existing one. Inherited variables and methods of the original Parent class are available in the new Child class as if they were declared locally.,~
+
+tree, trees,~ A nonlinear data structure that forms a hierarchy stemming from a single root node. The most comment example is Binary Tree,~
+
+data structure, structures, data structures,~ Data Structure is a programming construct, either defined in the language or by a programmer, used to organize data into a format to facilitate access and processing. Arrays, linked lists, and stacks can all be considered data structures.,~

@@ -1,0 +1,14 @@
+Linked-List,~ Linked List is a dynamic data structure in which objects are linked using references.,~
+
+data structure, structures, data structures,~ Data Structure is a programming construct, either defined in the language or by a programmer, used to organize data into a format to facilitate access and processing. Arrays, linked lists, and stacks can all be considered data structures.,~
+
+array, arrays,~ An array is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created. After creation, its length is fixed.,~
+
+graph, graphs,~ A nonlinear data structure made up of nodes and edges that connect the nodes. See also digraph.,~
+
+polymorphism,~ An object-oriented technique by which a reference that is used to invoke a method can result in different methods being invoked at different times. All Java method invocations are potentially polymorphic in that they invoke the method of the object type, not the reference type.,~
+
+doubly linked list, doubly linked, doubly-linked,~ Doubly-linked list is a linked-list data structure with two references in each node: one that refers to the next node in the list and one that refers to the previous node in the list.,~
+
+pointer, pointers,~ A variable that can hold a memory address. Instead of pointers, Java uses references, which provide essentially the same functionality as pointers but without the need for explicit dereferencing.,~
+
